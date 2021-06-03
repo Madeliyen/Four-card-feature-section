@@ -82,4 +82,4 @@ Areas and techniques to focus on and refine in future projects.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Madeliyen)
+- Frontend Mentor - [@Madeliyen](https://www.frontendmentor.io/profile/Madeliyen)
