@@ -24,10 +24,10 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
--Desktop view:
+-Desktop view: <br>
 ![](./screenshots/desktop.png)
 
--Mobile view:
+-Mobile view: <br>
 ![](./screenshots/mobile.png)
 
 ### Links
