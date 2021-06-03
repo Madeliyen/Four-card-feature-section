@@ -1,0 +1,125 @@
+/* Default styles */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Custom style */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+}
+
+/* Top Container */
+h1 {
+  font-size: 2rem;
+  font-weight: 200;
+  text-align: center;
+  line-height: 1.5rem;
+  color: hsl(229, 6%, 66%);
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  color: hsl(234, 12%, 34%);
+}
+
+.description {
+  font-size: 1rem;
+  width: 380px;
+  text-align: center;
+  font-weight: 200;
+  margin: 15px auto 50px;
+  color: hsl(229, 6%, 66%);
+}
+
+.top-container {
+  padding-top: 50px;
+}
+
+.tool-name {
+  font-size: 1rem;
+  font-weight:600;
+  color: hsl(234, 12%, 34%);
+}
+
+.tool-card {
+  width: 25rem;
+  height: 15rem;
+  border: none;
+  border-top: 3px solid;
+  border-radius: 5px;
+  box-shadow: 0 8px 15px 1px hsl(229deg 6% 66%);
+  justify-content: center;
+  margin: 20px;
+  /* margin-top: 20px; */
+}
+
+.red {
+   border-top-color: hsl(0, 78%, 62%);
+}
+
+.cyan {
+   border-top-color: hsl(180, 62%, 55%);
+}
+
+.orange {
+   border-top-color: hsl(34, 97%, 64%);
+}
+
+.blue {
+   border-top-color: hsl(212, 86%, 64%);
+}
+
+.tool-img {
+  text-align: right;
+  position: absolute;
+  right: 8%;
+  bottom: 8%;
+}
+
+.tool-desc {
+  font-size: 0.8rem;
+  color: hsl(229, 6%, 66%);
+}
+
+.row {
+  justify-content: center;
+  margin:0;
+}
+
+/* Media Query */
+
+@media screen and (min-width: 1400px) {
+  h1, h2 {
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 1.2rem;
+    width: 35%;
+  }
+
+  .tool-name {
+    font-size: 1.2rem;
+  }
+
+  .container-fluid {
+    padding: 30px 0 50px;
+    width: 80%;
+  }
+
+  .tool-card {
+    width: 25rem;
+    height: 15rem;
+  }
+
+  .mid-card {
+    padding: 25px 0;
+  }
+}
