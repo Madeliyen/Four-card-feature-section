@@ -24,16 +24,16 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
--Desktop view: <br>
+- Desktop view: <br>
 ![](./screenshots/desktop.png)
 
--Mobile view: <br>
+- Mobile view: <br>
 ![](./screenshots/mobile.png)
 
 ### Links
 
 - Solution URL: [https://github.com/Madeliyen/Four-card-feature-section.git](https://your-solution-url.com)
-- Live Site URL: [https://github.com/Madeliyen/Four-card-feature-section.git](https://your-live-site-url.com)
+- Live Site URL: [https://madeliyen.github.io/Four-card-feature-section/](https://your-live-site-url.com)
 
 ## My process
 
